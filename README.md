@@ -4,4 +4,4 @@ Combination of NumPy and Tensorflow implementations of regressions, clustering, 
 
 Taken in the 2019 Winter semester with Prof. Liang
 
-I did all of these labs with my friend Will Morley github: willmorley
+I did all of these labs with my friend Will Morley - github: willmorley
